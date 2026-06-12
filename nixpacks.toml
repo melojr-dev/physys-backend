@@ -1,6 +1,2 @@
 [phases.setup]
-<<<<<<< HEAD
 nixPkgs = ["mesa", "glib", "libGL", "libGLU", "xorg.libX11"]
-=======
-nixPkgs = ["python311", "gcc", "mesa", "glib"]
->>>>>>> ab3e0e513636e3261ac5f10b63cb33949435c552
