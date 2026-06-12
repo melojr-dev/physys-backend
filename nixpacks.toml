@@ -1,2 +1,2 @@
 [phases.setup]
-nixPkgs = ["mesa", "glib"]
+nixPkgs = ["mesa", "glib", "libGL", "libGLU", "xorg.libX11"]
